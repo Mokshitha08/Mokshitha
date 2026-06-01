@@ -31,6 +31,9 @@ CS undergrad at SR University, Warangal · passionate about Generative AI, Expla
 
 ## Connect
 [![LinkedIn - https://www.linkedin.com/in/mokshitha-vadde/]]
+
+
+
 [![GitHub - https://github.com/Mokshitha08]]
 
 ---
