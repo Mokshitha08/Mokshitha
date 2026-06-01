@@ -2,7 +2,7 @@
 
 CS undergrad at SR University, Warangal · passionate about Generative AI, Explainable AI, and building real-world ML systems.
 
-## About me
+## About me 
 - 🎓 B.Tech Computer Science @ SR University, Warangal
 - 🤖 Currently exploring LLMs, RAG pipelines, and Explainable AI
 - 🌱 Learning DevOps, MLOps, and cloud deployment
