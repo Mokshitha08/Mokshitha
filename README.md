@@ -18,7 +18,7 @@ CS undergrad at SR University, Warangal · passionate about Generative AI, Expla
 `LangChain` · `HuggingFace` · `OpenAI API` · `scikit-learn` · `SHAP` · `LIME`
 
 **Tools & DevOps**
-`Jupyter` · `Git` · `GitHub Actions` · `Docker`
+`Jupyter` · `Git` · `GitHub Actions` · `Docker` 
 
 ## Projects
 | Project | Description |
